@@ -1,7 +1,7 @@
 Hello you there, Tom Hacker here. 
 
 Just wanted to say...
-It's strange how some pixels are a different in colour to others and now the mass of meat inside your head is creating the exact same meaning that i did in the past while writing this.
+It's strange how some pixels are different in colour to others and now the mass of meat inside your head is creating the exact same meaning that i did in the past while writing this.
 <br  />
 <br />
 Oh, and on the subject of leveraging "AI" (It is not AI) to 100x and even replace your developers?
